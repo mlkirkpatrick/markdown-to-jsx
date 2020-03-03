@@ -2,7 +2,7 @@
 
 The most lightweight, customizable React markdown component.
 
-## This is a fork of markdown-to-jsx. Unless you need specific functionality from this fork, please use the official version: [[npm|https://www.npmjs.com/package/markdown-to-jsx]] [[github|https://github.com/probablyup/markdown-to-jsx]]
+## This is a fork of markdown-to-jsx. Unless you need specific functionality from this fork, please use the official version: [[npm](https://www.npmjs.com/package/markdown-to-jsx)] [[github](https://github.com/probablyup/markdown-to-jsx)]
 
 <!-- TOC -->
 
